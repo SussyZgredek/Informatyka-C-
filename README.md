@@ -1,1 +1,2 @@
-# Informatyka-C-
+# Informatyka-C- 
+Bartosz Misztal
